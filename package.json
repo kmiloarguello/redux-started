@@ -1,0 +1,9 @@
+{
+  "name": "redux-started",
+  "version": "0.1.0",
+  "description": "Using redux",
+  "main": "index.js",
+  "repository": "https://github.com/kmiloarguello/redux-started",
+  "author": "@kmiloarguello",
+  "license": "MIT"
+}
